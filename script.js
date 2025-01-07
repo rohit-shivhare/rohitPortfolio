@@ -48,7 +48,7 @@ navLinks.forEach((link) => {
 // Attatch Resume file
 document.getElementById('download-btn').addEventListener('click', function () {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1P7cmTSrhwgzQdq4l_nIg0ebvqRA3lwSI/view?usp=sharing'; 
+    link.href = 'https://drive.google.com/file/d/1XyXNhzJR6sfd70ViyZHK8f7jRNBMjFPb/view?usp=sharing'; 
     link.target = '_blank';
     link.click();
 });
